@@ -1,3 +1,4 @@
+const API_KEY = "9ccaf97115ae21ad655f568564e36bf0";
 function getOk(position){
   const lat = position.coords.latitude;
   const lon = position.coords.longitude;
